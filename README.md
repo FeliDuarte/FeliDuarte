@@ -1,6 +1,6 @@
 # Felipe Duarte
 
-Estudiante de Analista de Sistemas en la Universidad Siglo 21 (Córdoba, Argentina). Desarrollo web freelance con Next.js, Payload CMS y MongoDB.
+Estudiante de Ingeniería de Software en la Universidad Siglo 21 (Córdoba, Argentina). Desarrollo web freelance con Next.js, Payload CMS y MongoDB.
 
 ## Stack
 
