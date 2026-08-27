@@ -14,7 +14,6 @@ En la carrera: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=
 ## Proyectos
 
 - **Catálogo web para una revendedora de indumentaria** — Next.js, Payload CMS, MongoDB y TypeScript. Arquitectura en dos capas, integración continua en GitHub Actions y 23 decisiones de arquitectura documentadas. El código es privado; la documentación es pública en [NOMBRE-DEL-REPO](#).
-- **IBS (Índice de Bioactividad del Suelo)** — iniciativa agtech argentina de código abierto. Análisis de requerimientos y modelado UML/ER.
 - Trabajos académicos en Java: [concesionaria-autos](https://github.com/FeliDuarte/concesionaria-autos) y PeluqueriaCanina.
 
 ## Contacto
