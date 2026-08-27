@@ -18,4 +18,4 @@ En la carrera: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=
 
 ## Contacto
 
-Felipe Duarte — [LinkedIn](https://www.linkedin.com/in/feli-duarte/) · [GitHub](https://github.com/FeliDuarte)
+Felipe Duarte — [LinkedIn](https://www.linkedin.com/in/feli-duarte/) · [GitHub](https://github.com/FeliDuarte) · feliduartexd@gmail.com
